@@ -1,0 +1,15 @@
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\obj\Debug\FIXLogReader.Errors.resources
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\obj\Debug\FIXLogReader.Form1.resources
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\obj\Debug\FIXLogReader.Resources.resources
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\obj\Debug\FIXLogReader.Splash.resources
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\obj\Debug\FIXLogReader.vbproj.GenerateResource.Cache
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\bin\Debug\FIXLogReader.exe
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\bin\Debug\FIXLogReader.pdb
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\bin\Debug\FIXLogReader.xml
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\obj\Debug\FIXLogReader.exe
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\obj\Debug\FIXLogReader.xml
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\obj\Debug\FIXLogReader.pdb
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\bin\Debug\AutoUpdater.dll
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\bin\Debug\KaaN.dll
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\bin\Debug\AutoUpdater.pdb
+C:\Tfs\Finansinvest\FIXLogReader\FIXLogReader\bin\Debug\AutoUpdater.xml
